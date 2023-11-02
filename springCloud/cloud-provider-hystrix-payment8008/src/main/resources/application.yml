@@ -1,0 +1,29 @@
+server:
+  port: 8008
+  servlet:
+    context-path: /cloud-hystrix-payment-server
+
+spring:
+  application:
+    name: cloud-hystrix-payment-server
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.0.5:3306/test?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: 111aa~
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka #集群版
+  instance:
+    instance-id: hystrix8008
+    prefer-ip-address: true
+
+hystrix:
+  metrics:
+    enabled: true
+

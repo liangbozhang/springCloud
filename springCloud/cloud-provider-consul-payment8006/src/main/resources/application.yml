@@ -1,0 +1,17 @@
+server:
+  port: 8006
+  servlet:
+    context-path: /consul-payment
+
+spring:
+  application:
+    name: consul-provider-payment
+  #### 注册中心地址
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name} # 注册进 consul 中的服务名称
+        health-check-path: /consul-payment/actuator/health # 健康检查路径
+
