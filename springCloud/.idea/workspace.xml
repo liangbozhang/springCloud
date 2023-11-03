@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="252bf309-2072-4bf5-8bd9-3e834055ec84" name="Default Changelist" comment="新增练习项目提交">
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/src/main/java/org/example/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/src/main/java/org/example/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/src/main/java/org/example/direct/CustomerDirect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/src/main/java/org/example/direct/ProducerDirect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/src/main/java/org/example/fanout/CustomerFanout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/src/main/java/org/example/fanout/ProducerFanout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/src/main/java/org/example/leetcode/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/src/main/java/org/example/topic/CustomerTopic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/src/main/java/org/example/topic/ProducerTopic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/target/classes/org/example/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/target/classes/org/example/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/target/classes/org/example/direct/CustomerDirect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/target/classes/org/example/direct/ProducerDirect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/target/classes/org/example/fanout/CustomerFanout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/target/classes/org/example/fanout/ProducerFanout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/target/classes/org/example/leetcode/AddTwoNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/target/classes/org/example/leetcode/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/target/classes/org/example/leetcode/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/target/classes/org/example/topic/CustomerTopic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rabbitMQ/target/classes/org/example/topic/ProducerTopic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springCloudConfig" afterDir="false" />
+    <list default="true" id="252bf309-2072-4bf5-8bd9-3e834055ec84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../springCloudConfig" beforeDir="false" afterPath="$PROJECT_DIR$/../springCloudConfig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -344,8 +323,16 @@
       <workItem from="1698887164249" duration="210000" />
       <workItem from="1698887385163" duration="11088000" />
       <workItem from="1698985096471" duration="10546000" />
-      <workItem from="1699003364244" duration="306000" />
+      <workItem from="1699003364244" duration="852000" />
     </task>
+    <task id="LOCAL-00001" summary="新增练习项目提交">
+      <created>1699003758440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699003758440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,22 +367,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1699003757380" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1699003379851">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1699004226697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1699003379851" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1699003379850">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1699004226697" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1699004226697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1699003379850" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1699003379850">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1699004226697" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1699004226697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1699003379850" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1699003379851">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1699004226697" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1699004226697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1699003379851" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1699004226697" />
     <state width="1584" height="464" key="GridCell.Tab.1.bottom" timestamp="1699003190316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
