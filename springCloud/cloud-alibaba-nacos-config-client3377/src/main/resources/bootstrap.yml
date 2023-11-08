@@ -1,0 +1,18 @@
+server:
+  port: 3377
+
+spring:
+  application:
+    name: config-client-server
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848 #服务注册中心地址
+        service: nacos-client-server #注册中心服务名称，默认spring.application.name名称，优先指定名称
+        namespace: 1001 #服务空间 默认个public
+      config:
+        server-addr: localhost:8848 #作为配置中心地址
+        group: DEV_GROUP
+        namespace: 1001
+        file-extension: yaml #指定yaml格式的配置
+        prefix: config-client-test
